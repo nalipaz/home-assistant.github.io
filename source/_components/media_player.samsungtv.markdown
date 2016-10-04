@@ -58,3 +58,4 @@ Currently tested but not working models:
 
 - KU6300 - Shows in GUI but unable to control.
 - UE75H6400 - Shows in GUI but unable to control.
+- H6300AF - This model tested as not working, ALL H-Series models will not work since they only provide infrared and serial controls. It is possible that an EX-Link connection might work but untested.
